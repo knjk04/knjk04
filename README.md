@@ -9,4 +9,4 @@ If you have a Book Project-related question, please create a new [GitHub discuss
 
 ### Sponsoring the Books API
 
-I hate to ask for money, but the costs of running Azure Blob Storage for our Books API is prohibitive. It's currently at $65 a month. If you're willing and are able to donate towards our development costs, it would greatly appreciated and beneficial to supporting our development. See the [sponsorship page](https://github.com/sponsors/knjk04/dashboard).
+I hate to ask for money, but the costs of running Azure Blob Storage for our Books API is prohibitive for me at $65 a month. If you're willing and are able to donate towards our development costs, it would greatly appreciated and beneficial to supporting our development. See the [sponsorship page](https://github.com/sponsors/knjk04/dashboard).
