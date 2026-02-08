@@ -1,14 +1,14 @@
 ![My GitHub Game](game.gif)
 
-### Hello!
+## About me 
+
+I'm currently building Epilogue Club, a beautifully designed book platform that lets readers track their reading.
 
 Interests:
 - Scalable & reliable software systems
 - AI safety (alignment)
 - Machine learning & deep learning
 - Reading (mostly non-fiction)
-
-I'm currently building Epilogue Club, a beautifully designed book platform that lets readers track their reading.
 
 ## Previous
 
