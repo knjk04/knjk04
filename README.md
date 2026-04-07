@@ -2,7 +2,7 @@
 
 ## About me 
 
-I'm currently building Epilogue Club, a beautifully designed book platform that lets readers track their reading.
+I'm currently building [Epilogue Club](https://epilogue.club/), a beautifully designed book platform that lets readers track their reading.
 
 Interests:
 - Scalable & reliable software systems
